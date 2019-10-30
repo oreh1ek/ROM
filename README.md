@@ -5,3 +5,5 @@ nekineki
 
 se neki
 pa se neki
+
+se neki popravljamo
